@@ -4,7 +4,7 @@ public static void main(String args[]) {
 int bil, awal, akhir;
         
          System.out.println("PROGRAM JAVA MENAMPILKAN DERET BILANGAN PRIMA");
-		 awal = 1;
+		 awal = 10;
 		 akhir = 100;
          System.out.println("----------------------------------------------");
         for (int i=awal; i<=akhir; i++){
